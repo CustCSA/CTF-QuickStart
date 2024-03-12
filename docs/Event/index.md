@@ -516,9 +516,9 @@ hide:
                 **赛事主办** : OSUSEC (https://ctftime.org/team/12858)  
                 **添加日历** : https://ctftime.org/event/2262.ics  
                 
-            ??? Quote "[THCon 2k24 CTF](https://thcon.party/)"  
-                [![](https://ctftime.org/media/events/logo-desktop.png){ width="200" align=left }](https://thcon.party/)  
-                **比赛名称** : [THCon 2k24 CTF](https://thcon.party/)  
+            ??? Quote "[THCon 2k24 CTF](http://ctf.thcon.party/)"  
+                [![](https://ctftime.org/media/events/logo-desktop.png){ width="200" align=left }](http://ctf.thcon.party/)  
+                **比赛名称** : [THCon 2k24 CTF](http://ctf.thcon.party/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-04-06 18:00:00 - 2024-04-08 18:00:00 UTC+8  
                 **比赛权重** : 0.00  
@@ -743,13 +743,7 @@ hide:
                 
     === "*正在进行*"
         === "国内赛事"
-            ??? Quote "[第一届“长城杯”信息安全铁人三项赛初赛](http://ccb.itsec.gov.cn/)"  
-                **比赛名称** : [第一届“长城杯”信息安全铁人三项赛初赛](http://ccb.itsec.gov.cn/)  
-                **比赛类型** : 团队赛|1-4人  
-                **报名时间** : 2023年12月21日 00:00 - 2024年02月23日 18:00  
-                **比赛时间** : 2024年03月10日 09:00 - 2024年03月12日 18:00  
-                **其他说明** : 比赛时间2024年3月 未定  
-                
+    
         === "国外赛事"
             ??? Quote "[Sydbox CTF: read /etc/CTF](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)  
@@ -771,6 +765,13 @@ hide:
                 
     === "*已经结束*"
         === "国内赛事"
+            ??? Quote "[第一届“长城杯”信息安全铁人三项赛初赛](http://ccb.itsec.gov.cn/)"  
+                **比赛名称** : [第一届“长城杯”信息安全铁人三项赛初赛](http://ccb.itsec.gov.cn/)  
+                **比赛类型** : 团队赛|1-4人  
+                **报名时间** : 2023年12月21日 00:00 - 2024年02月23日 18:00  
+                **比赛时间** : 2024年03月10日 09:00 - 2024年03月12日 18:00  
+                **其他说明** : 比赛时间2024年3月 未定  
+                
             ??? Quote "[青少年CTF擂台挑战赛 2024 #Round 1](https://www.qsnctf.com/#/main/race-center/race-guide?id=11)"  
                 **比赛名称** : [青少年CTF擂台挑战赛 2024 #Round 1](https://www.qsnctf.com/#/main/race-center/race-guide?id=11)  
                 **比赛类型** : 团队赛|1-4人  
