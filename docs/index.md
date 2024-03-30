@@ -83,24 +83,6 @@ hide:
             **其他说明** : 比赛时间未定  
                 
     === "国外比赛"
-        ??? Quote "[UTCTF 2024](https://isss.io/utctf)"  
-            [![](https://ctftime.org/media/events/UTCTF2024.png){ width="200" align=left }](https://isss.io/utctf)  
-            **比赛名称** : [UTCTF 2024](https://isss.io/utctf)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-03-30 07:00:00 - 2024-04-01 07:00:00 UTC+8  
-            **比赛权重** : 48.00  
-            **赛事主办** : isss (https://ctftime.org/team/69010)  
-            **添加日历** : https://ctftime.org/event/2302.ics  
-            
-        ??? Quote "[CursedCTF 2024 Quals](https://cursedc.tf/)"  
-            [![](https://ctftime.org/media/events/Screenshot_2024-01-23_at_11.45.46_AM.png){ width="200" align=left }](https://cursedc.tf/)  
-            **比赛名称** : [CursedCTF 2024 Quals](https://cursedc.tf/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-03-30 08:00:00 - 2024-04-01 08:00:00 UTC+8  
-            **比赛权重** : 19.50  
-            **赛事主办** : cursed (https://ctftime.org/team/199492)  
-            **添加日历** : https://ctftime.org/event/2239.ics  
-            
         ??? Quote "[SummitCTF 2024](https://summitctf.org/)"  
             [![](https://ctftime.org/media/events/default_background_removed.png){ width="200" align=left }](https://summitctf.org/)  
             **比赛名称** : [SummitCTF 2024](https://summitctf.org/)  
@@ -118,6 +100,24 @@ hide:
             **比赛权重** : 35.91  
             **赛事主办** : VolgaCTF.org (https://ctftime.org/team/27094)  
             **添加日历** : https://ctftime.org/event/2200.ics  
+            
+        ??? Quote "[UNbreakable International 2024 - Team Phase](https://unr24t-international.cyber-edu.co/)"  
+            [![](https://ctftime.org/media/events/g5hqjcGuxmbcMSZ9.png){ width="200" align=left }](https://unr24t-international.cyber-edu.co/)  
+            **比赛名称** : [UNbreakable International 2024 - Team Phase](https://unr24t-international.cyber-edu.co/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-04-05 18:00:00 - 2024-04-07 18:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : bitsentinel (https://ctftime.org/team/280005)  
+            **添加日历** : https://ctftime.org/event/2297.ics  
+            
+        ??? Quote "[AmateursCTF 2024](https://ctf.amateurs.team/)"  
+            [![](https://ctftime.org/media/events/2d6bd602-ecce-47e6-8f53-b352af222287.915ceb9574bb9759b4dd16bf8a744d25_1.jpeg){ width="200" align=left }](https://ctf.amateurs.team/)  
+            **比赛名称** : [AmateursCTF 2024](https://ctf.amateurs.team/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-04-05 22:00:00 - 2024-04-10 11:00:00 UTC+8  
+            **比赛权重** : 24.54  
+            **赛事主办** : les amateurs (https://ctftime.org/team/166729)  
+            **添加日历** : https://ctftime.org/event/2226.ics  
             
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](./Event/)
