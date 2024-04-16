@@ -285,6 +285,13 @@ hide:
             适度CTF益脑，沉迷CTF伤身。合理安排时间，享受健康生活。
     
     === "*正在报名*"
+        ??? Quote "[第一届“帕鲁杯”CTF应急响应挑战赛](https://paluctf.runctf.cn/)"  
+            **比赛名称** : [第一届“帕鲁杯”CTF应急响应挑战赛](https://paluctf.runctf.cn/)  
+            **比赛类型** : 团体赛1-4人  
+            **报名时间** : 2024年04月16日 08:00 - 2024年04月19日 08:00  
+            **比赛时间** : 2024年04月19日 08:00 - 2024年04月21日 19:00  
+            **其他说明** : QQ群：710672599  
+            
         ??? Quote "[第十七届全国大学生信息安全竞赛 - 作品赛](http://www.ciscn.cn/competition/securityCompetition?compet_id=39)"  
             **比赛名称** : [第十七届全国大学生信息安全竞赛 - 作品赛](http://www.ciscn.cn/competition/securityCompetition?compet_id=39)  
             **比赛类型** : 作品赛  
@@ -322,6 +329,13 @@ hide:
                 **比赛时间** : 2024年05月01日 08:00 - 2024年05月25日 08:00  
                 **其他说明** : QQ群:619577692 / 852601317 邮箱:iscc2004@163.com  
                 
+            ??? Quote "[第一届“帕鲁杯”CTF应急响应挑战赛](https://paluctf.runctf.cn/)"  
+                **比赛名称** : [第一届“帕鲁杯”CTF应急响应挑战赛](https://paluctf.runctf.cn/)  
+                **比赛类型** : 团体赛1-4人  
+                **报名时间** : 2024年04月16日 08:00 - 2024年04月19日 08:00  
+                **比赛时间** : 2024年04月19日 08:00 - 2024年04月21日 19:00  
+                **其他说明** : QQ群：710672599  
+                
             ??? Quote "[第十七届全国大学生信息安全竞赛 - 作品赛](http://www.ciscn.cn/competition/securityCompetition?compet_id=39)"  
                 **比赛名称** : [第十七届全国大学生信息安全竞赛 - 作品赛](http://www.ciscn.cn/competition/securityCompetition?compet_id=39)  
                 **比赛类型** : 作品赛  
@@ -351,15 +365,6 @@ hide:
                 **其他说明** : QQ群：810961465  
                 
         === "国外赛事"
-            ??? Quote "[Incognito 5.0](https://ictf5.ninja/)"  
-                [![](https://ctftime.org/media/events/lo.png){ width="200" align=left }](https://ictf5.ninja/)  
-                **比赛名称** : [Incognito 5.0](https://ictf5.ninja/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-04-16 18:00:00 - 2024-04-17 06:00:00 UTC+8  
-                **比赛权重** : 21.95  
-                **赛事主办** : Byt3Scr4pp3rs (https://ctftime.org/team/57772)  
-                **添加日历** : https://ctftime.org/event/2316.ics  
-                
             ??? Quote "[SpartanCTF 2024](https://spartan.ctfd.io/)"  
                 [![](https://ctftime.org/media/events/zdc_emblem.png){ width="200" align=left }](https://spartan.ctfd.io/)  
                 **比赛名称** : [SpartanCTF 2024](https://spartan.ctfd.io/)  
@@ -454,7 +459,7 @@ hide:
                 [![](https://ctftime.org){ width="200" align=left }](https://insomnihack.ch/contests/)  
                 **比赛名称** : [Insomni'hack 2024](https://insomnihack.ch/contests/)  
                 **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-04-27 02:00:00 - 2024-04-27 13:00:00 UTC+8  
+                **比赛时间** : 2024-04-27 00:30:00 - 2024-04-27 11:00:00 UTC+8  
                 **比赛权重** : 33.40  
                 **赛事主办** : Insomni'hack Team (https://ctftime.org/team/104742)  
                 **添加日历** : https://ctftime.org/event/2271.ics  
@@ -864,9 +869,9 @@ hide:
                 **赛事主办** : ASIS (https://ctftime.org/team/4140)  
                 **添加日历** : https://ctftime.org/event/2211.ics  
                 
-            ??? Quote "[TCP1P CTF 2024: Exploring Nusantara's Digital Realm](https://ctf.tcp1p.com/)"  
-                [![](https://ctftime.org/media/events/TCP1P-logo.png){ width="200" align=left }](https://ctf.tcp1p.com/)  
-                **比赛名称** : [TCP1P CTF 2024: Exploring Nusantara's Digital Realm](https://ctf.tcp1p.com/)  
+            ??? Quote "[TCP1P CTF 2024: Exploring Nusantara's Digital Realm](https://tcp1p.github.io/tcp1p-pages/tcp1pctf-2024)"  
+                [![](https://ctftime.org/media/events/TCP1P-logo.png){ width="200" align=left }](https://tcp1p.github.io/tcp1p-pages/tcp1pctf-2024)  
+                **比赛名称** : [TCP1P CTF 2024: Exploring Nusantara's Digital Realm](https://tcp1p.github.io/tcp1p-pages/tcp1pctf-2024)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-10-11 20:00:00 - 2024-10-13 20:00:00 UTC+8  
                 **比赛权重** : 24.85  
@@ -900,6 +905,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
                 **添加日历** : https://ctftime.org/event/2178.ics  
+                
+            ??? Quote "[Incognito 5.0](https://ictf5.ninja/)"  
+                [![](https://ctftime.org/media/events/lo.png){ width="200" align=left }](https://ictf5.ninja/)  
+                **比赛名称** : [Incognito 5.0](https://ictf5.ninja/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-04-16 18:00:00 - 2024-04-17 06:00:00 UTC+8  
+                **比赛权重** : 21.95  
+                **赛事主办** : Byt3Scr4pp3rs (https://ctftime.org/team/57772)  
+                **添加日历** : https://ctftime.org/event/2316.ics  
                 
     === "*已经结束*"
         === "国内赛事"

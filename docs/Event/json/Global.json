@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "Incognito 5.0",
-        "比赛时间": "2024-04-16 18:00:00 - 2024-04-17 06:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2316.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ictf5.ninja/",
-        "比赛标志": "https://ctftime.org/media/events/lo.png",
-        "比赛权重": "21.95",
-        "赛事主办": "Byt3Scr4pp3rs (https://ctftime.org/team/57772)",
-        "比赛ID": "413",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "SpartanCTF 2024",
         "比赛时间": "2024-04-18 00:00:00 - 2024-04-22 13:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2313.ics",
@@ -133,7 +121,7 @@
     },
     {
         "比赛名称": "Insomni'hack 2024",
-        "比赛时间": "2024-04-27 02:00:00 - 2024-04-27 13:00:00 UTC+8",
+        "比赛时间": "2024-04-27 00:30:00 - 2024-04-27 11:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2271.ics",
         "比赛形式": "Jeopardy",
         "比赛链接": "https://insomnihack.ch/contests/",
@@ -688,7 +676,7 @@
         "比赛时间": "2024-10-11 20:00:00 - 2024-10-13 20:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2256.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.tcp1p.com/",
+        "比赛链接": "https://tcp1p.github.io/tcp1p-pages/tcp1pctf-2024",
         "比赛标志": "https://ctftime.org/media/events/TCP1P-logo.png",
         "比赛权重": "24.85",
         "赛事主办": "TCP1P (https://ctftime.org/team/187248)",
@@ -717,6 +705,18 @@
         "比赛权重": "0",
         "赛事主办": "Exherbo GNU/Linux (https://ctftime.org/team/275214)",
         "比赛ID": "1027",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "Incognito 5.0",
+        "比赛时间": "2024-04-16 18:00:00 - 2024-04-17 06:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2316.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ictf5.ninja/",
+        "比赛标志": "https://ctftime.org/media/events/lo.png",
+        "比赛权重": "21.95",
+        "赛事主办": "Byt3Scr4pp3rs (https://ctftime.org/team/57772)",
+        "比赛ID": "413",
         "比赛状态": "nowrunning"
     },
     {
