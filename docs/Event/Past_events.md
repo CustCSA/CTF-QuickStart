@@ -5,6 +5,20 @@ comments: true
 
 ## 国内赛事
 
+??? Quote "D^3CTF2024"  
+    **比赛名称** : [D^3CTF2024](https://d3c.tf/)  
+    **比赛类型** : 团队赛 | Jeopardy  
+    **报名时间** : 2024年04月07日 09:00 - 2024年04月19日 20:00  
+    **比赛时间** : 2024年04月19日 20:00 - 2024年04月21日 20:00  
+    **其他说明** : QQ群：317828357  
+    
+??? Quote "第一届“帕鲁杯”CTF应急响应挑战赛"  
+    **比赛名称** : [第一届“帕鲁杯”CTF应急响应挑战赛](https://paluctf.runctf.cn/)  
+    **比赛类型** : 团体赛1-4人  
+    **报名时间** : 2024年04月16日 08:00 - 2024年04月19日 08:00  
+    **比赛时间** : 2024年04月19日 08:00 - 2024年04月21日 19:00  
+    **其他说明** : QQ群：710672599  
+    
 ??? Quote "浙江警察学院平航杯电子数据取证比赛"  
     **比赛名称** : [浙江警察学院平航杯电子数据取证比赛](https://mp.weixin.qq.com/s/ImWNs003Xsh-lruhC_addQ)  
     **比赛类型** : 团队赛|1-3人  
@@ -93,14 +107,14 @@ comments: true
     **赛事主办** : Challenge the Cyber (https://ctftime.org/team/181210)  
     **添加日历** : https://ctftime.org/event/2277.ics  
     
-??? Quote "[Grey Cat The Flag 2024 Qualifiers](https://ctf.nusgreyhats.org/)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://ctf.nusgreyhats.org/)  
-    **比赛名称** : [Grey Cat The Flag 2024 Qualifiers](https://ctf.nusgreyhats.org/)  
+??? Quote "[Midnight Sun CTF 2024 Quals](https://midnightsunctf.com/)"  
+    [![](https://ctftime.org/media/events/midnight.png){ width="200" align=left }](https://midnightsunctf.com/)  
+    **比赛名称** : [Midnight Sun CTF 2024 Quals](https://midnightsunctf.com/)  
     **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-04-20 12:00:00 - 2024-04-21 12:00:00 UTC+8  
-    **比赛权重** : 22.46  
-    **赛事主办** : NUSGreyhats (https://ctftime.org/team/16740)  
-    **添加日历** : https://ctftime.org/event/2242.ics  
+    **比赛时间** : 2024-04-20 18:00:00 - 2024-04-21 18:00:00 UTC+8  
+    **比赛权重** : 35.74  
+    **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
+    **添加日历** : https://ctftime.org/event/2247.ics  
     
 ??? Quote "[Nexus Elites CTF](https://nexusctf.ycfteam.in/)"  
     [![](https://ctftime.org/media/events/CTF_logo.jpg){ width="200" align=left }](https://nexusctf.ycfteam.in/)  
@@ -110,6 +124,24 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : YCF (https://ctftime.org/team/179685)  
     **添加日历** : https://ctftime.org/event/2331.ics  
+    
+??? Quote "[Grey Cat The Flag 2024 Qualifiers](https://ctf.nusgreyhats.org/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://ctf.nusgreyhats.org/)  
+    **比赛名称** : [Grey Cat The Flag 2024 Qualifiers](https://ctf.nusgreyhats.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-04-20 12:00:00 - 2024-04-21 12:00:00 UTC+8  
+    **比赛权重** : 22.46  
+    **赛事主办** : NUSGreyhats (https://ctftime.org/team/16740)  
+    **添加日历** : https://ctftime.org/event/2242.ics  
+    
+??? Quote "[CPCTF 2024](https://cpctf.space/)"  
+    [![](https://ctftime.org/media/events/624f1650cfdb45fb857a62b9304d4a1c.png){ width="200" align=left }](https://cpctf.space/)  
+    **比赛名称** : [CPCTF 2024](https://cpctf.space/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-04-20 09:00:00 - 2024-04-21 15:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : traP (https://ctftime.org/team/62510)  
+    **添加日历** : https://ctftime.org/event/2338.ics  
     
 ??? Quote "[Incognito 5.0](https://ictf5.ninja/)"  
     [![](https://ctftime.org/media/events/lo.png){ width="200" align=left }](https://ictf5.ninja/)  
@@ -575,7 +607,7 @@ comments: true
     **比赛名称** : [osu!gaming CTF 2024](https://www.osugaming.lol/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-03-02 01:00:00 - 2024-03-04 01:00:00 UTC+8  
-    **比赛权重** : 23.87  
+    **比赛权重** : 23.89  
     **赛事主办** : osu!gaming (https://ctftime.org/team/186954)  
     **添加日历** : https://ctftime.org/event/2165.ics  
     
@@ -965,22 +997,4 @@ comments: true
     **比赛权重** : 6.67  
     **赛事主办** : UAC (https://ctftime.org/team/140846)  
     **添加日历** : https://ctftime.org/event/2099.ics  
-    
-??? Quote "[IWCON CTF](https://iwcon.live/ctf)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://iwcon.live/ctf)  
-    **比赛名称** : [IWCON CTF](https://iwcon.live/ctf)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2023-12-14 18:26:53 - 2023-12-15 18:26:53 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : IWCON (https://ctftime.org/team/277281)  
-    **添加日历** : https://ctftime.org/event/2214.ics  
-    
-??? Quote "[Intent CTF 2023](https://intentsummit.org/)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://intentsummit.org/)  
-    **比赛名称** : [Intent CTF 2023](https://intentsummit.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2023-12-13 16:30:00 - 2023-12-15 16:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Security Research Summit (SRS) (https://ctftime.org/team/163107)  
-    **添加日历** : https://ctftime.org/event/2130.ics  
     
