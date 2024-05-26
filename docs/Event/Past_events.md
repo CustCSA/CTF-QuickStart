@@ -5,6 +5,20 @@ comments: true
 
 ## 国内赛事
 
+??? Quote "第二届京麒CTF挑战赛"  
+    **比赛名称** : [第二届京麒CTF挑战赛](https://jqctf.jd.com)  
+    **比赛类型** : 团队赛  
+    **报名时间** : 2024年05月06日 08:00 - 2024年05月26日 07:00  
+    **比赛时间** : 2024年05月26日 08:00 - 2024年05月26日 18:00  
+    **其他说明** : QQ群：605379906  
+    
+??? Quote "DragonKnight CTF"  
+    **比赛名称** : [DragonKnight CTF](https://www.qsnctf.com/#/main/race-center)  
+    **比赛类型** : 团队赛|1-4人  
+    **报名时间** : 2024年05月14日 00:00 - 2024年05月24日 18:00  
+    **比赛时间** : 2024年05月25日 09:00 - 2024年05月26日 18:00  
+    **其他说明** : QQ群：933699782  
+    
 ??? Quote "第九届上海市大学生网络安全大赛暨“磐石行动”2024第二届全国高校网络安全邀请赛"  
     **比赛名称** : [第九届上海市大学生网络安全大赛暨“磐石行动”2024第二届全国高校网络安全邀请赛](https://mp.weixin.qq.com/s/-BK28uJAvW6vAUVgFElymA)  
     **比赛类型** : 团队赛|1-3人  
@@ -98,6 +112,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[L3akCTF 2024](https://ctf.l3ak.team/)"  
+    [![](https://ctftime.org/media/events/ctf_final.png){ width="200" align=left }](https://ctf.l3ak.team/)  
+    **比赛名称** : [L3akCTF 2024](https://ctf.l3ak.team/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-05-24 20:00:00 - 2024-05-26 20:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : L3ak (https://ctftime.org/team/220336)  
+    **添加日历** : https://ctftime.org/event/2322.ics  
+    
 ??? Quote "[AI CTF 2024](https://aictf.phdays.fun/)"  
     [![](https://ctftime.org/media/events/AI_CTF_AI_TRACK_.png){ width="200" align=left }](https://aictf.phdays.fun/)  
     **比赛名称** : [AI CTF 2024](https://aictf.phdays.fun/)  
@@ -148,7 +171,7 @@ comments: true
     **比赛名称** : [SAS CTF 2024 Quals](https://ctf.thesascon.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-05-18 20:00:00 - 2024-05-19 20:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 20.77  
     **赛事主办** : SAS CREW (https://ctftime.org/team/283057)  
     **添加日历** : https://ctftime.org/event/2299.ics  
     
@@ -988,13 +1011,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : athackPrivate (https://ctftime.org/team/278003)  
     **添加日历** : https://ctftime.org/event/2228.ics  
-    
-??? Quote "[GCC CTF 2024](https://gcc-ctf.com/)"  
-    [![](https://ctftime.org/media/events/Logo_GCC_White_Font.png){ width="200" align=left }](https://gcc-ctf.com/)  
-    **比赛名称** : [GCC CTF 2024](https://gcc-ctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-03-02 04:00:00 - 2024-03-04 04:00:00 UTC+8  
-    **比赛权重** : 24.92  
-    **赛事主办** : Galette Cidre CTF (https://ctftime.org/team/246488)  
-    **添加日历** : https://ctftime.org/event/2251.ics  
     
