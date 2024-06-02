@@ -126,6 +126,24 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[Codegate CTF 2024 Preliminary](http://ctf.codegate.org/)"  
+    [![](https://ctftime.org){ width="200" align=left }](http://ctf.codegate.org/)  
+    **比赛名称** : [Codegate CTF 2024 Preliminary](http://ctf.codegate.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-06-01 09:00:00 - 2024-06-02 09:00:00 UTC+8  
+    **比赛权重** : 36.58  
+    **赛事主办** : CODEGATE (https://ctftime.org/team/39352)  
+    **添加日历** : https://ctftime.org/event/2346.ics  
+    
+??? Quote "[GPN CTF 2024](https://ctf.kitctf.de/)"  
+    [![](https://ctftime.org/media/events/2acc1e50ba516aa0bc42a61798cfa10d.png){ width="200" align=left }](https://ctf.kitctf.de/)  
+    **比赛名称** : [GPN CTF 2024](https://ctf.kitctf.de/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-05-31 18:00:00 - 2024-06-02 06:00:00 UTC+8  
+    **比赛权重** : 31.17  
+    **赛事主办** : KITCTF (https://ctftime.org/team/7221)  
+    **添加日历** : https://ctftime.org/event/2257.ics  
+    
 ??? Quote "[Dreamhack Invitational 2024](https://dreamhack.io/)"  
     [![](https://ctftime.org/media/events/_mini_round_light2x_1.png){ width="200" align=left }](https://dreamhack.io/)  
     **比赛名称** : [Dreamhack Invitational 2024](https://dreamhack.io/)  
@@ -1007,22 +1025,4 @@ comments: true
     **比赛权重** : 23.64  
     **赛事主办** : PencilTesters (https://ctftime.org/team/178288)  
     **添加日历** : https://ctftime.org/event/2263.ics  
-    
-??? Quote "[WxMCTF 2024](https://ctf.mcpt.ca/contest/wxmctf)"  
-    [![](https://ctftime.org/media/events/Logo_thing_1.png){ width="200" align=left }](https://ctf.mcpt.ca/contest/wxmctf)  
-    **比赛名称** : [WxMCTF 2024](https://ctf.mcpt.ca/contest/wxmctf)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-03-09 08:00:00 - 2024-03-11 07:00:00 UTC+8  
-    **比赛权重** : 23.59  
-    **赛事主办** : X Series CTF (https://ctftime.org/team/211390)  
-    **添加日历** : https://ctftime.org/event/2179.ics  
-    
-??? Quote "[HSCCTF 2024](https://race.hscsec.cn/home)"  
-    [![](https://ctftime.org/media/events/ZLJS-G.png){ width="200" align=left }](https://race.hscsec.cn/home)  
-    **比赛名称** : [HSCCTF 2024](https://race.hscsec.cn/home)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-03-09 05:00:00 - 2024-03-11 05:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : 红客突击队 (https://ctftime.org/team/119338)  
-    **添加日历** : https://ctftime.org/event/2290.ics  
     
