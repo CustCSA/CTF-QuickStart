@@ -23,7 +23,7 @@ comments: true
 ## 国际赛事
 
 ??? Quote "[Akasec CTF 2024](https://ctf.akasec.club/)"  
-    [![](https://ctftime.org/media/events/akasec_icon-15.png){ width="200" align=left }](https://ctf.akasec.club/)  
+    [![](https://ctftime.org/media/events/akasec-ctf-logo_3.jpeg){ width="200" align=left }](https://ctf.akasec.club/)  
     **比赛名称** : [Akasec CTF 2024](https://ctf.akasec.club/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-06-07 21:37:00 - 2024-06-09 21:37:00 UTC+8  
@@ -257,7 +257,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/2301.ics  
     
 ??? Quote "[HITCON CTF 2024 Quals](http://ctf.hitcon.org/)"  
-    [![](https://ctftime.org){ width="200" align=left }](http://ctf.hitcon.org/)  
+    [![](https://ctftime.org/media/events/hitcon-ctf_monotone_black.png){ width="200" align=left }](http://ctf.hitcon.org/)  
     **比赛名称** : [HITCON CTF 2024 Quals](http://ctf.hitcon.org/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-07-12 22:00:00 - 2024-07-14 22:00:00 UTC+8  
