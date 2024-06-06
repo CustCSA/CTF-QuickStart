@@ -315,13 +315,6 @@ hide:
                 **比赛时间** : 2024年06月08日 10:00 - 2024年06月10日 18:00  
                 **其他说明** : R3CTF2024 是由 r3kapig 和 YuanHeng实验室 组织的在线解题(jeopardy)CTF。同时 YuanHeng实验室 提供所有奖品！我们欢迎来自世界各地的CTFer在这48小时内玩得开心。更多信息：https://discord.gg/zU64ekBsgA  
                 
-            ??? Quote "[墨者杯](https://www.c.mozhe.cn/#/)"  
-                **比赛名称** : [墨者杯](https://www.c.mozhe.cn/#/)  
-                **比赛类型** : 个人赛  
-                **报名时间** : 2024年05月30日 00:00 - 2024年06月05日 17:00  
-                **比赛时间** : 2024年06月06日 10:00 - 2024年06月06日 14:00  
-                **其他说明** : QQ群：623112042  
-                
         === "国外赛事"
             ??? Quote "[Akasec CTF 2024](https://ctf.akasec.club/)"  
                 [![](https://ctftime.org/media/events/akasec_icon-15.png){ width="200" align=left }](https://ctf.akasec.club/)  
@@ -779,6 +772,13 @@ hide:
                 
     === "*已经结束*"
         === "国内赛事"
+            ??? Quote "[墨者杯](https://www.c.mozhe.cn/#/)"  
+                **比赛名称** : [墨者杯](https://www.c.mozhe.cn/#/)  
+                **比赛类型** : 个人赛  
+                **报名时间** : 2024年05月30日 00:00 - 2024年06月05日 17:00  
+                **比赛时间** : 2024年06月06日 10:00 - 2024年06月06日 14:00  
+                **其他说明** : QQ群：623112042  
+                
             ??? Quote "[第十七届全国大学生信息安全竞赛 - 作品赛](http://www.ciscn.cn/competition/securityCompetition?compet_id=39)"  
                 **比赛名称** : [第十七届全国大学生信息安全竞赛 - 作品赛](http://www.ciscn.cn/competition/securityCompetition?compet_id=39)  
                 **比赛类型** : 作品赛  
