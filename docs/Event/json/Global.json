@@ -1,29 +1,5 @@
 [
     {
-        "比赛名称": "CyberSci Nationals 2024",
-        "比赛时间": "2024-06-21 20:00:00 - 2024-06-23 06:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2366.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://cybersecuritychallenge.ca/",
-        "比赛标志": "https://ctftime.org/media/events/c0c445488770d1de63c46986bc92e8e6.png",
-        "比赛权重": "0.00",
-        "赛事主办": "CyberSciOrganizers (https://ctftime.org/team/157536)",
-        "比赛ID": "643",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "Wani CTF 2024",
-        "比赛时间": "2024-06-21 20:00:00 - 2024-06-23 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2377.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://wanictf.org/",
-        "比赛标志": "https://ctftime.org/media/events/wani_ctf_logo.png",
-        "比赛权重": "24.99",
-        "赛事主办": "Wani Hackase (https://ctftime.org/team/70717)",
-        "比赛ID": "935",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "Google Capture The Flag 2024",
         "比赛时间": "2024-06-22 02:00:00 - 2024-06-24 02:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2296.ics",
@@ -456,6 +432,30 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "CyberSci Nationals 2024",
+        "比赛时间": "2024-06-21 20:00:00 - 2024-06-23 06:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2366.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://cybersecuritychallenge.ca/",
+        "比赛标志": "https://ctftime.org/media/events/c0c445488770d1de63c46986bc92e8e6.png",
+        "比赛权重": "0",
+        "赛事主办": "CyberSciOrganizers (https://ctftime.org/team/157536)",
+        "比赛ID": "643",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "Wani CTF 2024",
+        "比赛时间": "2024-06-21 20:00:00 - 2024-06-23 20:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2377.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://wanictf.org/",
+        "比赛标志": "https://ctftime.org/media/events/wani_ctf_logo.png",
+        "比赛权重": "24.99",
+        "赛事主办": "Wani Hackase (https://ctftime.org/team/70717)",
+        "比赛ID": "935",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "Grey Cat The Flag 2024 Finals",
         "比赛时间": "2024-06-20 10:00:00 - 2024-06-21 18:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2244.ics",
@@ -465,7 +465,7 @@
         "比赛权重": "0",
         "赛事主办": "NUSGreyhats (https://ctftime.org/team/16740)",
         "比赛ID": "778",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "Midnight Sun CTF 2024 Finals",
@@ -1653,18 +1653,6 @@
         "比赛权重": "21.26",
         "赛事主办": "Highlander Hackers (https://ctftime.org/team/173925)",
         "比赛ID": "724",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Texas Security Awareness Week 2024",
-        "比赛时间": "2024-03-23 23:00:00 - 2024-03-25 06:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2281.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://csi.utdallas.edu/events/texsaw-2024/",
-        "比赛标志": "https://ctftime.org/media/events/texsaw24.png",
-        "比赛权重": "23.89",
-        "赛事主办": "UTD TexSAW (https://ctftime.org/team/220408)",
-        "比赛ID": "926",
         "比赛状态": "past"
     }
 ]
