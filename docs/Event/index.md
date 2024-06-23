@@ -338,15 +338,6 @@ hide:
                 **赛事主办** : DiceGang (https://ctftime.org/team/109452)  
                 **添加日历** : https://ctftime.org/event/2306.ics  
                 
-            ??? Quote "[AltayCTF 2024](https://altayctf.ru/)"  
-                [![](https://ctftime.org/media/events/0_1.png){ width="200" align=left }](https://altayctf.ru/)  
-                **比赛名称** : [AltayCTF 2024](https://altayctf.ru/)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2024-06-30 11:00:00 - 2024-06-30 20:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : SharLike (https://ctftime.org/team/16172)  
-                **添加日历** : https://ctftime.org/event/2376.ics  
-                
             ??? Quote "[Junior.Crypt.2024 CTF](http://ctf-spcs.mf.grsu.by/)"  
                 [![](https://ctftime.org/media/events/logo_NY.jpg){ width="200" align=left }](http://ctf-spcs.mf.grsu.by/)  
                 **比赛名称** : [Junior.Crypt.2024 CTF](http://ctf-spcs.mf.grsu.by/)  
@@ -738,15 +729,6 @@ hide:
                 **赛事主办** : Fikamyndigheten (https://ctftime.org/team/305722)  
                 **添加日历** : https://ctftime.org/event/2399.ics  
                 
-            ??? Quote "[Wani CTF 2024](https://wanictf.org/)"  
-                [![](https://ctftime.org/media/events/wani_ctf_logo.png){ width="200" align=left }](https://wanictf.org/)  
-                **比赛名称** : [Wani CTF 2024](https://wanictf.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-06-21 20:00:00 - 2024-06-23 20:00:00 UTC+8  
-                **比赛权重** : 24.99  
-                **赛事主办** : Wani Hackase (https://ctftime.org/team/70717)  
-                **添加日历** : https://ctftime.org/event/2377.ics  
-                
             ??? Quote "[Google Capture The Flag 2024](https://g.co/ctf)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://g.co/ctf)  
                 **比赛名称** : [Google Capture The Flag 2024](https://g.co/ctf)  
@@ -922,6 +904,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
                 **添加日历** : https://ctftime.org/event/2366.ics  
+                
+            ??? Quote "[Wani CTF 2024](https://wanictf.org/)"  
+                [![](https://ctftime.org/media/events/wani_ctf_logo.png){ width="200" align=left }](https://wanictf.org/)  
+                **比赛名称** : [Wani CTF 2024](https://wanictf.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-06-21 20:00:00 - 2024-06-23 20:00:00 UTC+8  
+                **比赛权重** : 24.99  
+                **赛事主办** : Wani Hackase (https://ctftime.org/team/70717)  
+                **添加日历** : https://ctftime.org/event/2377.ics  
                 
             ??? Quote "[Grey Cat The Flag 2024 Finals](https://ctf.nusgreyhats.org/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctf.nusgreyhats.org/)  
@@ -1777,15 +1768,6 @@ hide:
                 **比赛权重** : 24.83  
                 **赛事主办** : bitsentinel (https://ctftime.org/team/280005)  
                 **添加日历** : https://ctftime.org/event/2297.ics  
-                
-            ??? Quote "[HTBLuVA Villach CTF 2024](https://tophack.at/)"  
-                [![](https://ctftime.org/media/events/Logos_TopHack-RED-Front.png){ width="200" align=left }](https://tophack.at/)  
-                **比赛名称** : [HTBLuVA Villach CTF 2024](https://tophack.at/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-04-05 17:00:00 - 2024-04-05 23:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : P01s0n3d_Fl4g (https://ctftime.org/team/273774)  
-                **添加日历** : https://ctftime.org/event/2317.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
