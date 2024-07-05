@@ -5,7 +5,13 @@ comments: true
 
 ## 国内赛事
 
-
+??? Quote "CTFshow-西瓜杯CTF"  
+    **比赛名称** : [CTFshow-西瓜杯CTF](https://ctf.show/)  
+    **比赛类型** : 个人赛  
+    **报名时间** : 2024年06月21日 09:30 - 2024年07月05日 19:00  
+    **比赛时间** : 2024年07月05日 20:00 - 2024年07月07日 20:00  
+    **其他说明** : QQ群：558694708  
+    
 
 ## 国际赛事
 
@@ -44,4 +50,13 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : Beavers0 (https://ctftime.org/team/269281)  
     **添加日历** : https://ctftime.org/event/2259.ics  
+    
+??? Quote "[DownUnderCTF 2024](https://play.duc.tf/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://play.duc.tf/)  
+    **比赛名称** : [DownUnderCTF 2024](https://play.duc.tf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-07-05 17:30:00 - 2024-07-07 17:30:00 UTC+8  
+    **比赛权重** : 68.04  
+    **赛事主办** : DownUnderCTF (https://ctftime.org/team/126400)  
+    **添加日历** : https://ctftime.org/event/2284.ics  
     
