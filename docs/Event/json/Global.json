@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "CatTheQuest",
-        "比赛时间": "2024-07-15 08:00:00 - 2024-07-21 08:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2414.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://catthequest.com/",
-        "比赛标志": "https://ctftime.org/media/events/DALL_E-2024-03-21-18.10-removebg-preview.png",
-        "比赛权重": "0",
-        "赛事主办": "CatTheFlag (https://ctftime.org/team/306432)",
-        "比赛ID": "1139",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "ImaginaryCTF 2024",
         "比赛时间": "2024-07-20 03:00:00 - 2024-07-22 03:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2396.ics",
@@ -564,6 +552,18 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "CatTheQuest",
+        "比赛时间": "2024-07-15 08:00:00 - 2024-07-21 08:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2414.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://catthequest.com/",
+        "比赛标志": "https://ctftime.org/media/events/DALL_E-2024-03-21-18.10-removebg-preview.png",
+        "比赛权重": "0",
+        "赛事主办": "CatTheFlag (https://ctftime.org/team/306432)",
+        "比赛ID": "1139",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "OSCTF",
         "比赛时间": "2024-07-13 08:30:00 - 2024-07-14 00:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2416.ics",
@@ -594,7 +594,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.interlogica.ninja/",
         "比赛标志": "https://ctftime.org/media/events/Untitled_2.png",
-        "比赛权重": "0",
+        "比赛权重": "25.00",
         "赛事主办": "Interlogica (https://ctftime.org/team/250899)",
         "比赛ID": "1065",
         "比赛状态": "past"
