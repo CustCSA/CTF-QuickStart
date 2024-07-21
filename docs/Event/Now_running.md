@@ -24,15 +24,6 @@ comments: true
     **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
     **添加日历** : https://ctftime.org/event/2178.ics  
     
-??? Quote "[Kryptokaffe CTF 2024](https://www.kryptokaffe.se/)"  
-    [![](https://ctftime.org/media/events/kryptokaffe2k24.png){ width="200" align=left }](https://www.kryptokaffe.se/)  
-    **比赛名称** : [Kryptokaffe CTF 2024](https://www.kryptokaffe.se/)  
-    **比赛形式** : Hack quest  
-    **比赛时间** : 2024-06-17 16:00:00 - 2024-07-21 20:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Fikamyndigheten (https://ctftime.org/team/305722)  
-    **添加日历** : https://ctftime.org/event/2399.ics  
-    
 ??? Quote "[ImaginaryCTF 2024](https://2024.imaginaryctf.org/)"  
     [![](https://ctftime.org){ width="200" align=left }](https://2024.imaginaryctf.org/)  
     **比赛名称** : [ImaginaryCTF 2024](https://2024.imaginaryctf.org/)  
@@ -41,15 +32,6 @@ comments: true
     **比赛权重** : 49.81  
     **赛事主办** : ImaginaryCTF (https://ctftime.org/team/131529)  
     **添加日历** : https://ctftime.org/event/2396.ics  
-    
-??? Quote "[MOCA CTF - Quals](https://play.pwnx.io/#/event/fb765f39-bc6f-46b9-a7bc-823bc261323a)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://play.pwnx.io/#/event/fb765f39-bc6f-46b9-a7bc-823bc261323a)  
-    **比赛名称** : [MOCA CTF - Quals](https://play.pwnx.io/#/event/fb765f39-bc6f-46b9-a7bc-823bc261323a)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-07-20 17:00:00 - 2024-07-21 17:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Metro Olografix (https://ctftime.org/team/268425)  
-    **添加日历** : https://ctftime.org/event/2293.ics  
     
 ??? Quote "[pbctf 2024](https://ctf.perfect.blue/)"  
     [![](https://ctftime.org){ width="200" align=left }](https://ctf.perfect.blue/)  
