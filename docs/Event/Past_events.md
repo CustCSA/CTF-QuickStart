@@ -119,6 +119,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[ENOWARS 8](https://8.enowars.com/)"  
+    [![](https://ctftime.org/media/events/enowars8.png){ width="200" align=left }](https://8.enowars.com/)  
+    **比赛名称** : [ENOWARS 8](https://8.enowars.com/)  
+    **比赛形式** : Attack-Defense  
+    **比赛时间** : 2024-07-20 20:00:00 - 2024-07-21 05:00:00 UTC+8  
+    **比赛权重** : 98.89  
+    **赛事主办** : ENOFLAG (https://ctftime.org/team/1438)  
+    **添加日历** : https://ctftime.org/event/2412.ics  
+    
 ??? Quote "[DASCTF 2024 Summer Challenge](https://buuoj.cn/match/matches/207)"  
     [![](https://ctftime.org/media/events/Dingtalk_20240709141420.jpg){ width="200" align=left }](https://buuoj.cn/match/matches/207)  
     **比赛名称** : [DASCTF 2024 Summer Challenge](https://buuoj.cn/match/matches/207)  
@@ -127,6 +136,15 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : DASCTF (https://ctftime.org/team/303691)  
     **添加日历** : https://ctftime.org/event/2429.ics  
+    
+??? Quote "[CatTheQuest](https://catthequest.com/)"  
+    [![](https://ctftime.org/media/events/DALL_E-2024-03-21-18.10-removebg-preview.png){ width="200" align=left }](https://catthequest.com/)  
+    **比赛名称** : [CatTheQuest](https://catthequest.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-07-15 08:00:00 - 2024-07-21 08:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : CatTheFlag (https://ctftime.org/team/306432)  
+    **添加日历** : https://ctftime.org/event/2414.ics  
     
 ??? Quote "[OSCTF](https://ctf.os.ftp.sh/)"  
     [![](https://ctftime.org/media/events/os_ctf_logo.png){ width="200" align=left }](https://ctf.os.ftp.sh/)  
@@ -1000,22 +1018,4 @@ comments: true
     **比赛权重** : 95.19  
     **赛事主办** : Plaid Parliament of Pwning (https://ctftime.org/team/284)  
     **添加日历** : https://ctftime.org/event/2245.ics  
-    
-??? Quote "[ShunyaCTF Aarambha](https://shunya.ctf.eng.run/)"  
-    [![](https://ctftime.org/media/events/shunyaLogo.png){ width="200" align=left }](https://shunya.ctf.eng.run/)  
-    **比赛名称** : [ShunyaCTF Aarambha](https://shunya.ctf.eng.run/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-04-13 00:30:00 - 2024-04-14 12:30:00 UTC+8  
-    **比赛权重** : 24.30  
-    **赛事主办** : nCreeps (https://ctftime.org/team/203035)  
-    **添加日历** : https://ctftime.org/event/2336.ics  
-    
-??? Quote "[HackPack CTF 2024 - LLM edition](https://hackpack.club/ctf2024/)"  
-    [![](https://ctftime.org/media/events/Screenshot_2024-04-05_at_10.29.44.png){ width="200" align=left }](https://hackpack.club/ctf2024/)  
-    **比赛名称** : [HackPack CTF 2024 - LLM edition](https://hackpack.club/ctf2024/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-04-13 00:00:00 - 2024-04-13 23:59:59 UTC+8  
-    **比赛权重** : 32.71  
-    **赛事主办** : hackpack (https://ctftime.org/team/25905)  
-    **添加日历** : https://ctftime.org/event/2333.ics  
     
