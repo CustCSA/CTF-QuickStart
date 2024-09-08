@@ -337,15 +337,6 @@ hide:
                 **其他说明** : QQ群：676547374 或 566180593  
                 
         === "国外赛事"
-            ??? Quote "[COMPFEST CTF 2024](https://ctf-mirror.compfest.id/)"  
-                [![](https://ctftime.org/media/events/Group_49363.png){ width="200" align=left }](https://ctf-mirror.compfest.id/)  
-                **比赛名称** : [COMPFEST CTF 2024](https://ctf-mirror.compfest.id/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-09-08 08:00:00 - 2024-09-09 08:00:00 UTC+8  
-                **比赛权重** : 43.00  
-                **赛事主办** : CSUI (https://ctftime.org/team/70551)  
-                **添加日历** : https://ctftime.org/event/2463.ics  
-                
             ??? Quote "[Haruulzangi CTF 2024 Qualifier](https://dashboard.haruulzangi.mn/)"  
                 [![](https://ctftime.org/media/events/zangi_2.png){ width="200" align=left }](https://dashboard.haruulzangi.mn/)  
                 **比赛名称** : [Haruulzangi CTF 2024 Qualifier](https://dashboard.haruulzangi.mn/)  
@@ -901,14 +892,14 @@ hide:
                 **赛事主办** : UCG (https://ctftime.org/team/255103)  
                 **添加日历** : https://ctftime.org/event/2460.ics  
                 
-            ??? Quote "[DFIR Labs CTF by The DFIR Report](https://thedfirreport.com/services/dfir-labs/ctf/)"  
-                [![](https://ctftime.org/media/events/image_31.png){ width="200" align=left }](https://thedfirreport.com/services/dfir-labs/ctf/)  
-                **比赛名称** : [DFIR Labs CTF by The DFIR Report](https://thedfirreport.com/services/dfir-labs/ctf/)  
+            ??? Quote "[COMPFEST CTF 2024](https://ctf-mirror.compfest.id/)"  
+                [![](https://ctftime.org/media/events/Group_49363.png){ width="200" align=left }](https://ctf-mirror.compfest.id/)  
+                **比赛名称** : [COMPFEST CTF 2024](https://ctf-mirror.compfest.id/)  
                 **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-09-08 00:00:00 - 2024-09-08 04:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : The DFIR Report (https://ctftime.org/team/309500)  
-                **添加日历** : https://ctftime.org/event/2451.ics  
+                **比赛时间** : 2024-09-08 08:00:00 - 2024-09-09 08:00:00 UTC+8  
+                **比赛权重** : 43.00  
+                **赛事主办** : CSUI (https://ctftime.org/team/70551)  
+                **添加日历** : https://ctftime.org/event/2463.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -997,6 +988,15 @@ hide:
                 **其他说明** : QQ群：575413907  
                 
         === "国外赛事"
+            ??? Quote "[DFIR Labs CTF by The DFIR Report](https://thedfirreport.com/services/dfir-labs/ctf/)"  
+                [![](https://ctftime.org/media/events/image_31.png){ width="200" align=left }](https://thedfirreport.com/services/dfir-labs/ctf/)  
+                **比赛名称** : [DFIR Labs CTF by The DFIR Report](https://thedfirreport.com/services/dfir-labs/ctf/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-09-08 00:00:00 - 2024-09-08 04:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : The DFIR Report (https://ctftime.org/team/309500)  
+                **添加日历** : https://ctftime.org/event/2451.ics  
+                
             ??? Quote "[BlackHat MEA CTF Qualification 2024](https://blackhatmea.com/capture-the-flag)"  
                 [![](https://ctftime.org/media/events/e0c283c95f7b0db516dae505d31ca20b_2.jpg){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
                 **比赛名称** : [BlackHat MEA CTF Qualification 2024](https://blackhatmea.com/capture-the-flag)  
@@ -1887,15 +1887,6 @@ hide:
                 **比赛权重** : 25.00  
                 **赛事主办** : UrchinSec (https://ctftime.org/team/175663)  
                 **添加日历** : https://ctftime.org/event/2327.ics  
-                
-            ??? Quote "[HACKTHEON SEJONG 2024 Preliminaries](https://hacktheon.org/)"  
-                [![](https://ctftime.org/media/events/CTF_2024.JPG){ width="200" align=left }](https://hacktheon.org/)  
-                **比赛名称** : [HACKTHEON SEJONG 2024 Preliminaries](https://hacktheon.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-04-27 08:00:00 - 2024-04-27 17:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Sejong City Hall (https://ctftime.org/team/214900)  
-                **添加日历** : https://ctftime.org/event/2286.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
