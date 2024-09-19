@@ -82,15 +82,17 @@ comments: true
     **比赛时间** : 2024年07月27日 00:00 - 2024年07月27日 23:59  
     **其他说明** : 初赛QQ群: 787262369  
     
-??? Quote "第十七届全国大学生信息安全竞赛创新实践能力赛（总决赛）"  
-    **比赛名称** : [第十七届全国大学生信息安全竞赛创新实践能力赛（总决赛）](http://www.ciscn.cn/announcement/view/350)  
-    **比赛类型** : 团队赛|1-4人  
-    **报名时间** : 2024年07月04日 02:50 - 2024年07月04日 03:50  
-    **比赛时间** : 2024年07月20日 00:00 - 2024年07月21日 23:59  
-    **其他说明** : QQ群：979328132  
-    
 
 ## 国际赛事
+??? Quote "[VolgaCTF 2024 Final](https://volgactf.ru/en/volgactf-2024/final/)"  
+    [![](https://ctftime.org/media/events/logo-social-yellow_15.png){ width="200" align=left }](https://volgactf.ru/en/volgactf-2024/final/)  
+    **比赛名称** : [VolgaCTF 2024 Final](https://volgactf.ru/en/volgactf-2024/final/)  
+    **比赛形式** : Attack-Defense  
+    **比赛时间** : 2024-09-19 14:00:00 - 2024-09-19 23:00:00 UTC+8  
+    **比赛权重** : 73.80  
+    **赛事主办** : VolgaCTF.org (https://ctftime.org/team/27094)  
+    **添加日历** : https://ctftime.org/event/2432.ics  
+    
 ??? Quote "[AlpacaHack Round 3 (Crypto)](https://alpacahack.com/ctfs/round-3)"  
     [![](https://ctftime.org/media/events/dark_512_1.png){ width="200" align=left }](https://alpacahack.com/ctfs/round-3)  
     **比赛名称** : [AlpacaHack Round 3 (Crypto)](https://alpacahack.com/ctfs/round-3)  
@@ -258,7 +260,7 @@ comments: true
     **比赛名称** : [CyberSpace CTF 2024](https://2024.csc.tf/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-08-31 00:00:00 - 2024-09-02 00:00:00 UTC+8  
-    **比赛权重** : 24.80  
+    **比赛权重** : 24.81  
     **赛事主办** : CyberSpace (https://ctftime.org/team/116280)  
     **添加日历** : https://ctftime.org/event/2428.ics  
     
@@ -492,7 +494,7 @@ comments: true
     **比赛名称** : [OSCTF](https://ctf.os.ftp.sh/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-07-13 08:30:00 - 2024-07-14 00:30:00 UTC+8  
-    **比赛权重** : 23.00  
+    **比赛权重** : 23.05  
     **赛事主办** : BlitzHack (https://ctftime.org/team/307415)  
     **添加日历** : https://ctftime.org/event/2416.ics  
     
@@ -528,7 +530,7 @@ comments: true
     **比赛名称** : [Junior.Crypt.2024 CTF](http://ctf-spcs.mf.grsu.by/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-07-03 23:00:00 - 2024-07-05 23:00:00 UTC+8  
-    **比赛权重** : 23.94  
+    **比赛权重** : 24.00  
     **赛事主办** : Beavers0 (https://ctftime.org/team/269281)  
     **添加日历** : https://ctftime.org/event/2259.ics  
     
@@ -762,7 +764,7 @@ comments: true
     **比赛名称** : [N0PSctf](https://ctf.nops.re/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-06-01 16:00:00 - 2024-06-03 04:00:00 UTC+8  
-    **比赛权重** : 24.30  
+    **比赛权重** : 24.32  
     **赛事主办** : NOPS (https://ctftime.org/team/4056)  
     **添加日历** : https://ctftime.org/event/2358.ics  
     
@@ -861,7 +863,7 @@ comments: true
     **比赛名称** : [L3akCTF 2024](https://ctf.l3ak.team/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-05-24 20:00:00 - 2024-05-26 20:00:00 UTC+8  
-    **比赛权重** : 24.42  
+    **比赛权重** : 24.41  
     **赛事主办** : L3ak (https://ctftime.org/team/220336)  
     **添加日历** : https://ctftime.org/event/2322.ics  
     
@@ -981,13 +983,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : ECSC2024 (https://ctftime.org/team/283828)  
     **添加日历** : https://ctftime.org/event/2355.ics  
-    
-??? Quote "[CyberSecurityRumble Quals](https://quals.rumble.host/)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://quals.rumble.host/)  
-    **比赛名称** : [CyberSecurityRumble Quals](https://quals.rumble.host/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-05-11 21:00:00 - 2024-05-12 21:00:00 UTC+8  
-    **比赛权重** : 100.00  
-    **赛事主办** : RedRocket (https://ctftime.org/team/48677)  
-    **添加日历** : https://ctftime.org/event/2224.ics  
     
