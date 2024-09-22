@@ -917,15 +917,6 @@ hide:
                 **赛事主办** : FuzzLand (https://ctftime.org/team/270659)  
                 **添加日历** : https://ctftime.org/event/2492.ics  
                 
-            ??? Quote "[openECSC 2024 - Final Round](https://open.ecsc2024.it/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://open.ecsc2024.it/)  
-                **比赛名称** : [openECSC 2024 - Final Round](https://open.ecsc2024.it/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-09-21 18:00:00 - 2024-09-22 18:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : ECSC2024 (https://ctftime.org/team/283828)  
-                **添加日历** : https://ctftime.org/event/2356.ics  
-                
             ??? Quote "[ASIS CTF Quals 2024](https://asisctf.com/)"  
                 [![](https://ctftime.org/media/events/asisctf.jpg){ width="200" align=left }](https://asisctf.com/)  
                 **比赛名称** : [ASIS CTF Quals 2024](https://asisctf.com/)  
@@ -934,15 +925,6 @@ hide:
                 **比赛权重** : 66.25  
                 **赛事主办** : ASIS (https://ctftime.org/team/4140)  
                 **添加日历** : https://ctftime.org/event/2211.ics  
-                
-            ??? Quote "[Haruulzangi CTF 2024 Round 2](https://dashboard.haruulzangi.mn/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://dashboard.haruulzangi.mn/)  
-                **比赛名称** : [Haruulzangi CTF 2024 Round 2](https://dashboard.haruulzangi.mn/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-09-22 12:00:00 - 2024-09-22 16:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
-                **添加日历** : https://ctftime.org/event/2493.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -1024,6 +1006,15 @@ hide:
                 **其他说明** : 初赛QQ群: 787262369  
                 
         === "国外赛事"
+            ??? Quote "[Haruulzangi CTF 2024 Round 2](https://dashboard.haruulzangi.mn/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://dashboard.haruulzangi.mn/)  
+                **比赛名称** : [Haruulzangi CTF 2024 Round 2](https://dashboard.haruulzangi.mn/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-09-22 12:00:00 - 2024-09-22 16:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
+                **添加日历** : https://ctftime.org/event/2493.ics  
+                
             ??? Quote "[21ans LinuxMeetup au Québec](https://www.linuxver.site/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://www.linuxver.site/)  
                 **比赛名称** : [21ans LinuxMeetup au Québec](https://www.linuxver.site/)  
@@ -1032,6 +1023,15 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : SummerJedi (https://ctftime.org/team/126955)  
                 **添加日历** : https://ctftime.org/event/2422.ics  
+                
+            ??? Quote "[openECSC 2024 - Final Round](https://open.ecsc2024.it/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://open.ecsc2024.it/)  
+                **比赛名称** : [openECSC 2024 - Final Round](https://open.ecsc2024.it/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-09-21 18:00:00 - 2024-09-22 18:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : ECSC2024 (https://ctftime.org/team/283828)  
+                **添加日历** : https://ctftime.org/event/2356.ics  
                 
             ??? Quote "[GMO Cybersecurity Contest - IERAE CTF 2024](https://gmo-cybersecurity.com/event/ieraectf24/)"  
                 [![](https://ctftime.org/media/events/ierae-ctf-logo_2_1.png){ width="200" align=left }](https://gmo-cybersecurity.com/event/ieraectf24/)  
@@ -1905,24 +1905,6 @@ hide:
                 **比赛权重** : 20.98  
                 **赛事主办** : SAS CREW (https://ctftime.org/team/283057)  
                 **添加日历** : https://ctftime.org/event/2299.ics  
-                
-            ??? Quote "[VulnX CTF 2024](https://vulncon.in/)"  
-                [![](https://ctftime.org/media/events/VulnX-Profile_pic.png){ width="200" align=left }](https://vulncon.in/)  
-                **比赛名称** : [VulnX CTF 2024](https://vulncon.in/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-18 18:30:00 - 2024-05-19 18:30:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : VulnX (https://ctftime.org/team/117274)  
-                **添加日历** : https://ctftime.org/event/2318.ics  
-                
-            ??? Quote "[Haruulzangi U18 2024 Domestic Quals](https://u18-2024.haruulzangi.mn/)"  
-                [![](https://ctftime.org/media/events/hz-u18_1_1.png){ width="200" align=left }](https://u18-2024.haruulzangi.mn/)  
-                **比赛名称** : [Haruulzangi U18 2024 Domestic Quals](https://u18-2024.haruulzangi.mn/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-18 12:00:00 - 2024-05-18 16:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
-                **添加日历** : https://ctftime.org/event/2371.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
