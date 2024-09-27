@@ -330,15 +330,6 @@ hide:
                 **其他说明** : QQ群:437096728 更多信息请前往赛事官网 https://ctf.yuanloo.com/  
                 
         === "国外赛事"
-            ??? Quote "[DefCamp Capture the Flag (D-CTF) 2024 Quals](https://dctf24-quals.cyber-edu.co/)"  
-                [![](https://ctftime.org/media/events/w5NGLTFBTZWXGg8lLPAeyg-Photoroom.png){ width="200" align=left }](https://dctf24-quals.cyber-edu.co/)  
-                **比赛名称** : [DefCamp Capture the Flag (D-CTF) 2024 Quals](https://dctf24-quals.cyber-edu.co/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-09-27 18:00:00 - 2024-09-29 17:00:00 UTC+8  
-                **比赛权重** : 33.56  
-                **赛事主办** : CCSIR.org (https://ctftime.org/team/9831)  
-                **添加日历** : https://ctftime.org/event/2480.ics  
-                
             ??? Quote "[Season IV, US Cyber Games Flag Fest CTF](https://www.uscybergames.com/season-4-draft-experience#ctf)"  
                 [![](https://ctftime.org/media/events/2022-10-USCG_S3_logos_cybergames_1_1.png){ width="200" align=left }](https://www.uscybergames.com/season-4-draft-experience#ctf)  
                 **比赛名称** : [Season IV, US Cyber Games Flag Fest CTF](https://www.uscybergames.com/season-4-draft-experience#ctf)  
@@ -876,14 +867,14 @@ hide:
                 **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
                 **添加日历** : https://ctftime.org/event/2121.ics  
                 
-            ??? Quote "[H7CTF International](https://ctf.h7tex.com/)"  
-                [![](https://ctftime.org/media/events/1_3.png){ width="200" align=left }](https://ctf.h7tex.com/)  
-                **比赛名称** : [H7CTF International](https://ctf.h7tex.com/)  
+            ??? Quote "[DefCamp Capture the Flag (D-CTF) 2024 Quals](https://dctf24-quals.cyber-edu.co/)"  
+                [![](https://ctftime.org/media/events/w5NGLTFBTZWXGg8lLPAeyg-Photoroom.png){ width="200" align=left }](https://dctf24-quals.cyber-edu.co/)  
+                **比赛名称** : [DefCamp Capture the Flag (D-CTF) 2024 Quals](https://dctf24-quals.cyber-edu.co/)  
                 **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-09-26 11:30:00 - 2024-09-27 19:30:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
-                **添加日历** : https://ctftime.org/event/2491.ics  
+                **比赛时间** : 2024-09-27 18:00:00 - 2024-09-29 17:00:00 UTC+8  
+                **比赛权重** : 33.56  
+                **赛事主办** : CCSIR.org (https://ctftime.org/team/9831)  
+                **添加日历** : https://ctftime.org/event/2480.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -973,6 +964,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
                 **添加日历** : https://ctftime.org/event/2494.ics  
+                
+            ??? Quote "[H7CTF International](https://ctf.h7tex.com/)"  
+                [![](https://ctftime.org/media/events/1_3.png){ width="200" align=left }](https://ctf.h7tex.com/)  
+                **比赛名称** : [H7CTF International](https://ctf.h7tex.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-09-26 11:30:00 - 2024-09-27 19:30:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
+                **添加日历** : https://ctftime.org/event/2491.ics  
                 
             ??? Quote "[Haruulzangi CTF 2024 Round 2](https://dashboard.haruulzangi.mn/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://dashboard.haruulzangi.mn/)  
@@ -1855,15 +1855,6 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : [TechnoPandas] (https://ctftime.org/team/1946)  
                 **添加日历** : https://ctftime.org/event/2383.ics  
-                
-            ??? Quote "[NahamCon CTF 2024](https://ctf.nahamcon.com/)"  
-                [![](https://ctftime.org/media/events/NAHAMCON-LOGO_BRANDING_D3_A1_1.png){ width="200" align=left }](https://ctf.nahamcon.com/)  
-                **比赛名称** : [NahamCon CTF 2024](https://ctf.nahamcon.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-24 04:00:00 - 2024-05-26 04:00:00 UTC+8  
-                **比赛权重** : 41.61  
-                **赛事主办** : JustHacking (https://ctftime.org/team/59573)  
-                **添加日历** : https://ctftime.org/event/2364.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
