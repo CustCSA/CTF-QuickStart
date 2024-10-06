@@ -833,15 +833,6 @@ hide:
                 **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
                 **添加日历** : https://ctftime.org/event/2121.ics  
                 
-            ??? Quote "[Season IV, US Cyber Games Flag Fest CTF](https://www.uscybergames.com/season-4-draft-experience#ctf)"  
-                [![](https://ctftime.org/media/events/2022-10-USCG_S3_logos_cybergames_1_1.png){ width="200" align=left }](https://www.uscybergames.com/season-4-draft-experience#ctf)  
-                **比赛名称** : [Season IV, US Cyber Games Flag Fest CTF](https://www.uscybergames.com/season-4-draft-experience#ctf)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-09-28 02:00:00 - 2024-10-06 11:59:58 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : PlayCyber (https://ctftime.org/team/165788)  
-                **添加日历** : https://ctftime.org/event/2472.ics  
-                
             ??? Quote "[AltayCTF 2024](https://university.altayctf.ru/2024)"  
                 [![](https://ctftime.org/media/events/0_1.png){ width="200" align=left }](https://university.altayctf.ru/2024)  
                 **比赛名称** : [AltayCTF 2024](https://university.altayctf.ru/2024)  
@@ -859,15 +850,6 @@ hide:
                 **比赛权重** : 25.00  
                 **赛事主办** : HackerDom (https://ctftime.org/team/552)  
                 **添加日历** : https://ctftime.org/event/2386.ics  
-                
-            ??? Quote "[IRON CTF 2024](https://ctf.1nf1n1ty.team/)"  
-                [![](https://ctftime.org/media/events/ironCTF.png){ width="200" align=left }](https://ctf.1nf1n1ty.team/)  
-                **比赛名称** : [IRON CTF 2024](https://ctf.1nf1n1ty.team/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-05 13:30:00 - 2024-10-06 13:30:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : 1nf1n1ty (https://ctftime.org/team/151859)  
-                **添加日历** : https://ctftime.org/event/2497.ics  
                 
             ??? Quote "[BRICS+ CTF Quals 2024](https://brics-ctf.com/)"  
                 [![](https://ctftime.org/media/events/logo-2024.png){ width="200" align=left }](https://brics-ctf.com/)  
@@ -967,6 +949,15 @@ hide:
                 **赛事主办** : TU Delft CTF Team (https://ctftime.org/team/134822)  
                 **添加日历** : https://ctftime.org/event/2487.ics  
                 
+            ??? Quote "[IRON CTF 2024](https://ctf.1nf1n1ty.team/)"  
+                [![](https://ctftime.org/media/events/ironCTF.png){ width="200" align=left }](https://ctf.1nf1n1ty.team/)  
+                **比赛名称** : [IRON CTF 2024](https://ctf.1nf1n1ty.team/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-10-05 13:30:00 - 2024-10-06 13:30:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : 1nf1n1ty (https://ctftime.org/team/151859)  
+                **添加日历** : https://ctftime.org/event/2497.ics  
+                
             ??? Quote "[AlpacaHack Round 4 (Rev)](https://alpacahack.com/ctfs/round-4)"  
                 [![](https://ctftime.org/media/events/ctftime_5.png){ width="200" align=left }](https://alpacahack.com/ctfs/round-4)  
                 **比赛名称** : [AlpacaHack Round 4 (Rev)](https://alpacahack.com/ctfs/round-4)  
@@ -1020,6 +1011,15 @@ hide:
                 **比赛权重** : 50.91  
                 **赛事主办** : scriptohio (https://ctftime.org/team/144581)  
                 **添加日历** : https://ctftime.org/event/2449.ics  
+                
+            ??? Quote "[Season IV, US Cyber Games Flag Fest CTF](https://www.uscybergames.com/season-4-draft-experience#ctf)"  
+                [![](https://ctftime.org/media/events/2022-10-USCG_S3_logos_cybergames_1_1.png){ width="200" align=left }](https://www.uscybergames.com/season-4-draft-experience#ctf)  
+                **比赛名称** : [Season IV, US Cyber Games Flag Fest CTF](https://www.uscybergames.com/season-4-draft-experience#ctf)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-09-28 02:00:00 - 2024-10-06 11:59:58 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : PlayCyber (https://ctftime.org/team/165788)  
+                **添加日历** : https://ctftime.org/event/2472.ics  
                 
             ??? Quote "[DefCamp Capture the Flag (D-CTF) 2024 Quals](https://dctf24-quals.cyber-edu.co/)"  
                 [![](https://ctftime.org/media/events/w5NGLTFBTZWXGg8lLPAeyg-Photoroom.png){ width="200" align=left }](https://dctf24-quals.cyber-edu.co/)  
@@ -1839,24 +1839,6 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : Hardware CTF by Quarkslab (https://ctftime.org/team/274600)  
                 **添加日历** : https://ctftime.org/event/2400.ics  
-                
-            ??? Quote "[Season IV, US Cyber Open](https://www.uscybergames.com/apply-to-play-season-4?hsCtaTracking=b8a9eb7a-183c-4113-a5d4-a4ac7b486e4f%7Cb5c8f25c-5752-4e8f-815b-82cb4d186af1)"  
-                [![](https://ctftime.org/media/events/2022-10-USCG_S3_logos_cybergames_1.png){ width="200" align=left }](https://www.uscybergames.com/apply-to-play-season-4?hsCtaTracking=b8a9eb7a-183c-4113-a5d4-a4ac7b486e4f%7Cb5c8f25c-5752-4e8f-815b-82cb4d186af1)  
-                **比赛名称** : [Season IV, US Cyber Open](https://www.uscybergames.com/apply-to-play-season-4?hsCtaTracking=b8a9eb7a-183c-4113-a5d4-a4ac7b486e4f%7Cb5c8f25c-5752-4e8f-815b-82cb4d186af1)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-31 19:59:00 - 2024-06-10 07:59:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : PlayCyber (https://ctftime.org/team/165788)  
-                **添加日历** : https://ctftime.org/event/2350.ics  
-                
-            ??? Quote "[GPN CTF 2024](https://ctf.kitctf.de/)"  
-                [![](https://ctftime.org/media/events/2acc1e50ba516aa0bc42a61798cfa10d.png){ width="200" align=left }](https://ctf.kitctf.de/)  
-                **比赛名称** : [GPN CTF 2024](https://ctf.kitctf.de/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-31 18:00:00 - 2024-06-02 06:00:00 UTC+8  
-                **比赛权重** : 31.17  
-                **赛事主办** : KITCTF (https://ctftime.org/team/7221)  
-                **添加日历** : https://ctftime.org/event/2257.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
