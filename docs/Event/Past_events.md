@@ -5,6 +5,13 @@ comments: true
 
 ## 国内赛事
 
+??? Quote "BRICS+ CTF Quals 2024"  
+    **比赛名称** : [BRICS+ CTF Quals 2024](https://brics-ctf.com/)  
+    **比赛类型** : 团队赛  
+    **报名时间** : 2024年10月05日 18:00 - 2024年10月06日 18:00  
+    **比赛时间** : 2024年10月05日 18:00 - 2024年10月06日 18:00  
+    **其他说明** : 初赛将以在线解题赛的形式进行.计划邀请来自金砖国家的15支队伍（每个国家不超过3支队伍）以及总排名前10的最佳队伍参与线上的决赛.同时详情信息请加入discord -> https://discord.gg/3AwqYTvaMw 决赛总奖池7w人民币左右  
+    
 ??? Quote "BaseCTF 2024 高校联合新生赛"  
     **比赛名称** : [BaseCTF 2024 高校联合新生赛](https://www.basectf.fun/)  
     **比赛类型** : 1-2 人  
@@ -84,6 +91,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[BRICS+ CTF Quals 2024](https://brics-ctf.com/)"  
+    [![](https://ctftime.org/media/events/logo-2024.png){ width="200" align=left }](https://brics-ctf.com/)  
+    **比赛名称** : [BRICS+ CTF Quals 2024](https://brics-ctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-10-05 18:00:00 - 2024-10-06 18:00:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : ITMO FSIT (https://ctftime.org/team/264636)  
+    **添加日历** : https://ctftime.org/event/2389.ics  
+    
 ??? Quote "[TU Delft CTF 2024](https://ctf.ewi.tudelft.nl/)"  
     [![](https://ctftime.org/media/events/fddd624d58320dba5f40c75a47d72974.jpg){ width="200" align=left }](https://ctf.ewi.tudelft.nl/)  
     **比赛名称** : [TU Delft CTF 2024](https://ctf.ewi.tudelft.nl/)  
@@ -101,6 +117,15 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : 1nf1n1ty (https://ctftime.org/team/151859)  
     **添加日历** : https://ctftime.org/event/2497.ics  
+    
+??? Quote "[AltayCTF 2024](https://university.altayctf.ru/2024)"  
+    [![](https://ctftime.org/media/events/0_1.png){ width="200" align=left }](https://university.altayctf.ru/2024)  
+    **比赛名称** : [AltayCTF 2024](https://university.altayctf.ru/2024)  
+    **比赛形式** : Attack-Defense  
+    **比赛时间** : 2024-10-05 11:00:00 - 2024-10-06 20:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : SharLike (https://ctftime.org/team/16172)  
+    **添加日历** : https://ctftime.org/event/2376.ics  
     
 ??? Quote "[AlpacaHack Round 4 (Rev)](https://alpacahack.com/ctfs/round-4)"  
     [![](https://ctftime.org/media/events/ctftime_5.png){ width="200" align=left }](https://alpacahack.com/ctfs/round-4)  
@@ -125,7 +150,7 @@ comments: true
     **比赛名称** : [justCTF 2024 finals](https://2024finals.justctf.team/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-09-28 18:00:00 - 2024-09-29 18:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 25.00  
     **赛事主办** : justCatTheFish (https://ctftime.org/team/33893)  
     **添加日历** : https://ctftime.org/event/2484.ics  
     
@@ -965,22 +990,4 @@ comments: true
     **比赛权重** : 24.32  
     **赛事主办** : NOPS (https://ctftime.org/team/4056)  
     **添加日历** : https://ctftime.org/event/2358.ics  
-    
-??? Quote "[Codegate CTF 2024 Preliminary](http://ctf.codegate.org/)"  
-    [![](https://ctftime.org){ width="200" align=left }](http://ctf.codegate.org/)  
-    **比赛名称** : [Codegate CTF 2024 Preliminary](http://ctf.codegate.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-06-01 09:00:00 - 2024-06-02 09:00:00 UTC+8  
-    **比赛权重** : 36.58  
-    **赛事主办** : CODEGATE (https://ctftime.org/team/39352)  
-    **添加日历** : https://ctftime.org/event/2346.ics  
-    
-??? Quote "[Hardwear.io USA 2024 Hardware CTF](https://hwctf.quarkslab.com/)"  
-    [![](https://ctftime.org/media/events/logohwcolor_13.png){ width="200" align=left }](https://hwctf.quarkslab.com/)  
-    **比赛名称** : [Hardwear.io USA 2024 Hardware CTF](https://hwctf.quarkslab.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-06-01 01:00:00 - 2024-06-02 04:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Hardware CTF by Quarkslab (https://ctftime.org/team/274600)  
-    **添加日历** : https://ctftime.org/event/2400.ics  
     
