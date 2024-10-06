@@ -5,13 +5,6 @@ comments: true
 
 ## 国内赛事
 
-??? Quote "0xGame 2024"  
-    **比赛名称** : [0xGame 2024](https://0xgame.exp10it.cn/)  
-    **比赛类型** : 个人赛  
-    **报名时间** : 2024年09月17日 10:30 - 2024年11月03日 21:00  
-    **比赛时间** : 2024年10月06日 09:00 - 2024年11月03日 21:00  
-    **其他说明** : QQ群: 746958713  
-    
 ??? Quote "2024'源鲁杯'高校网络安全技能大赛"  
     **比赛名称** : [2024'源鲁杯'高校网络安全技能大赛](https://ctf.yuanloo.com/)  
     **比赛类型** : 个人线上赛  
@@ -139,9 +132,9 @@ comments: true
     **赛事主办** : SAS CREW (https://ctftime.org/team/283057)  
     **添加日历** : https://ctftime.org/event/2435.ics  
     
-??? Quote "[Questcon CTF](https://owasp-pccoe.github.io/Owasp-pccoe/)"  
-    [![](https://ctftime.org/media/events/2ca67bbcaa92de860b6b46672dbc66df.jpg){ width="200" align=left }](https://owasp-pccoe.github.io/Owasp-pccoe/)  
-    **比赛名称** : [Questcon CTF](https://owasp-pccoe.github.io/Owasp-pccoe/)  
+??? Quote "[Questcon CTF](https://questcon.ctfd.io/)"  
+    [![](https://ctftime.org/media/events/Picsart_24-10-01_16-40-39-530_1_1.png){ width="200" align=left }](https://questcon.ctfd.io/)  
+    **比赛名称** : [Questcon CTF](https://questcon.ctfd.io/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-10-22 14:30:00 - 2024-10-23 14:30:00 UTC+8  
     **比赛权重** : 22.45  
