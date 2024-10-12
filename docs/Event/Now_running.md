@@ -45,12 +45,21 @@ comments: true
     **赛事主办** : TCP1P (https://ctftime.org/team/187248)  
     **添加日历** : https://ctftime.org/event/2256.ics  
     
-??? Quote "[Haus der Flaggen/Flag Heist](https://laokoon-security.com/ctf2024)"  
-    [![](https://ctftime.org/media/events/HausDerFlaggen_Plakat_1080_x_1080_px.png){ width="200" align=left }](https://laokoon-security.com/ctf2024)  
-    **比赛名称** : [Haus der Flaggen/Flag Heist](https://laokoon-security.com/ctf2024)  
+??? Quote "[Blue Water CTF 2024](https://bw.ctf.ing/)"  
+    [![](https://ctftime.org/media/events/4872c3c168bd1cdeb5dc564bb3a0416f.png){ width="200" align=left }](https://bw.ctf.ing/)  
+    **比赛名称** : [Blue Water CTF 2024](https://bw.ctf.ing/)  
     **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-10-12 16:00:00 - 2024-10-13 02:00:00 UTC+8  
+    **比赛时间** : 2024-10-12 22:00:00 - 2024-10-14 10:00:00 UTC+8  
     **比赛权重** : 0  
-    **赛事主办** : Laokoon SecurITy (https://ctftime.org/team/201667)  
-    **添加日历** : https://ctftime.org/event/2436.ics  
+    **赛事主办** : 💦​ (https://ctftime.org/team/205897)  
+    **添加日历** : https://ctftime.org/event/2479.ics  
+    
+??? Quote "[NoHat CTF 2024](https://play.pwnx.io/#/event/40b08dba-3140-4cae-89da-6db9c0d8e5a0)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://play.pwnx.io/#/event/40b08dba-3140-4cae-89da-6db9c0d8e5a0)  
+    **比赛名称** : [NoHat CTF 2024](https://play.pwnx.io/#/event/40b08dba-3140-4cae-89da-6db9c0d8e5a0)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-10-13 00:00:00 - 2024-10-14 00:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : PWNX (https://ctftime.org/team/179989)  
+    **添加日历** : https://ctftime.org/event/2518.ics  
     
