@@ -290,15 +290,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[GITEX GLOBAL CTF](https://gitex.ctf.ae/)"  
-                [![](https://ctftime.org/media/events/New_Project_17.png){ width="200" align=left }](https://gitex.ctf.ae/)  
-                **比赛名称** : [GITEX GLOBAL CTF](https://gitex.ctf.ae/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-14 15:00:00 - 2024-10-15 20:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : CTF.ae (https://ctftime.org/team/151875)  
-                **添加日历** : https://ctftime.org/event/2522.ics  
-                
             ??? Quote "[Breach Bytes 2.0](https://unstop.com/hackathons/breach-bytes-20-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-engineering-djsce-mumbai-1171442)"  
                 [![](https://ctftime.org/media/events/BREACH_BYTES_2.0_Logo_1.png){ width="200" align=left }](https://unstop.com/hackathons/breach-bytes-20-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-engineering-djsce-mumbai-1171442)  
                 **比赛名称** : [Breach Bytes 2.0](https://unstop.com/hackathons/breach-bytes-20-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-engineering-djsce-mumbai-1171442)  
@@ -388,15 +379,6 @@ hide:
                 **比赛权重** : 22.45  
                 **赛事主办** : OWASP_PCCOE-CORE (https://ctftime.org/team/206360)  
                 **添加日历** : https://ctftime.org/event/2505.ics  
-                
-            ??? Quote "[Z3R0 D4Y CTF](https://zerologon.co.in/)"  
-                [![](https://ctftime.org/media/events/Logo.c1dfc2e2d63945110c8d.png){ width="200" align=left }](https://zerologon.co.in/)  
-                **比赛名称** : [Z3R0 D4Y CTF](https://zerologon.co.in/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-24 17:00:00 - 2024-10-25 05:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Z3r0_l0g0n (https://ctftime.org/team/227457)  
-                **添加日历** : https://ctftime.org/event/2529.ics  
                 
             ??? Quote "[EngimaXplore2.0 2024](https://unstop.com/hackathons/engimaxplore-20-ctf-tantrafiesta24-iiit-nagpur-1153719)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://unstop.com/hackathons/engimaxplore-20-ctf-tantrafiesta24-iiit-nagpur-1153719)  
@@ -844,7 +826,7 @@ hide:
                 **比赛名称** : [UMassCTF 2025](https://ctf.umasscybersec.org/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-04-05 07:00:00 - 2025-04-07 07:00:00 UTC+8  
-                **比赛权重** : 47.60  
+                **比赛权重** : 48.38  
                 **赛事主办** : SavedByTheShell (https://ctftime.org/team/78233)  
                 **添加日历** : https://ctftime.org/event/2519.ics  
                 
@@ -887,6 +869,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : Hack Havoc (https://ctftime.org/team/316395)  
                 **添加日历** : https://ctftime.org/event/2532.ics  
+                
+            ??? Quote "[GITEX GLOBAL CTF](https://gitex.ctf.ae/)"  
+                [![](https://ctftime.org/media/events/New_Project_17.png){ width="200" align=left }](https://gitex.ctf.ae/)  
+                **比赛名称** : [GITEX GLOBAL CTF](https://gitex.ctf.ae/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-10-14 15:00:00 - 2024-10-15 20:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : CTF.ae (https://ctftime.org/team/151875)  
+                **添加日历** : https://ctftime.org/event/2522.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -1277,7 +1268,7 @@ hide:
                 **比赛名称** : [jailCTF 2024](https://ctf.pyjail.club/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-09-14 04:00:00 - 2024-09-17 04:00:00 UTC+8  
-                **比赛权重** : 24.86  
+                **比赛权重** : 24.87  
                 **赛事主办** : jailctf (https://ctftime.org/team/311088)  
                 **添加日历** : https://ctftime.org/event/2450.ics  
                 
@@ -1484,7 +1475,7 @@ hide:
                 **比赛名称** : [idekCTF 2024](https://ctf.idek.team/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-08-17 08:00:00 - 2024-08-19 08:00:00 UTC+8  
-                **比赛权重** : 52.27  
+                **比赛权重** : 52.29  
                 **赛事主办** : idek (https://ctftime.org/team/157039)  
                 **添加日历** : https://ctftime.org/event/2304.ics  
                 
