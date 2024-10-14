@@ -344,15 +344,6 @@ hide:
                 **赛事主办** : FluxFingers (https://ctftime.org/team/551)  
                 **添加日历** : https://ctftime.org/event/2438.ics  
                 
-            ??? Quote "[Cyber Odyssey 2024 : Qualifications](https://ctf.akasec.club/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctf.akasec.club/)  
-                **比赛名称** : [Cyber Odyssey 2024 : Qualifications](https://ctf.akasec.club/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-19 20:37:00 - 2024-10-20 20:37:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Akasec (https://ctftime.org/team/107202)  
-                **添加日历** : https://ctftime.org/event/2533.ics  
-                
             ??? Quote "[SunshineCTF 2024](https://sunshinectf.org/)"  
                 [![](https://ctftime.org/media/events/sctf_logo_24.png){ width="200" align=left }](https://sunshinectf.org/)  
                 **比赛名称** : [SunshineCTF 2024](https://sunshinectf.org/)  
@@ -964,6 +955,13 @@ hide:
                 **报名时间** : 2024年7月15日 00:00 - 2024年7月31日 23:59  
                 **比赛时间** : 2024年08月01日 00:00 - 2024年08月20日 23:59  
                 **其他说明** : QQ群: 622869531 组委会邮箱: tianwangcup@163.com  
+                
+            ??? Quote "[MoeCTF 2024](https://ctf.xidian.edu.cn)"  
+                **比赛名称** : [MoeCTF 2024](https://ctf.xidian.edu.cn)  
+                **比赛类型** : 个人赛  
+                **报名时间** : 2024年08月07日 14:23 - 2024年10月14日 21:00  
+                **比赛时间** : 2024年08月10日 09:00 - 2024年10月14日 21:00  
+                **其他说明** : QQ 群：187536315  
                 
         === "国外赛事"
             ??? Quote "[Securinets CTF Quals 2024](https://ctf.securinets.tn/)"  
