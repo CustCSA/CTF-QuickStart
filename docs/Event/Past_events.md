@@ -82,13 +82,6 @@ comments: true
     **比赛时间** : 2024年08月12日 00:00 - 2024年08月22日 15:00  
     **其他说明** : QQ群: 697694051 | 仅限相关岗位在职员工参加  
     
-??? Quote "第二届“天网杯”网络安全大赛"  
-    **比赛名称** : [第二届“天网杯”网络安全大赛](https://twcup.cverc.org.cn/twb/twb2024)  
-    **比赛类型** : 团队赛|不超过5人  
-    **报名时间** : 2024年7月15日 00:00 - 2024年7月31日 23:59  
-    **比赛时间** : 2024年08月01日 00:00 - 2024年08月20日 23:59  
-    **其他说明** : QQ群: 622869531 组委会邮箱: tianwangcup@163.com  
-    
 ??? Quote "MoeCTF 2024"  
     **比赛名称** : [MoeCTF 2024](https://ctf.xidian.edu.cn)  
     **比赛类型** : 个人赛  
@@ -164,7 +157,7 @@ comments: true
     **比赛名称** : [Haus der Flaggen/Flag Heist](https://laokoon-security.com/ctf2024)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-10-12 16:00:00 - 2024-10-13 02:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 21.00  
     **赛事主办** : Laokoon SecurITy (https://ctftime.org/team/201667)  
     **添加日历** : https://ctftime.org/event/2436.ics  
     
