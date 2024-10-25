@@ -61,13 +61,6 @@ comments: true
     **比赛时间** : 2024年08月27日 09:00 - 2024年08月28日 09:00  
     **其他说明** : QQ群1：1148320638 QQ群2：696494060 | 研究生、本科、高职、相关企业、党政机关及事业单位和港澳特邀  
     
-??? Quote "NepCTF 2024"  
-    **比赛名称** : [NepCTF 2024](https://nepctf.lemonprefect.cn/)  
-    **比赛类型** : 个人赛  
-    **报名时间** : 2024年08月21日 14:00 - 2024年08月26日 09:00  
-    **比赛时间** : 2024年08月24日 09:00 - 2024年08月26日 09:00  
-    **其他说明** : QQ群: 560946020 其他联系方式：Nepnep_Team@163.com  
-    
 ??? Quote "MoeCTF 2024"  
     **比赛名称** : [MoeCTF 2024](https://ctf.xidian.edu.cn)  
     **比赛类型** : 个人赛  
@@ -91,6 +84,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[Z3R0 D4Y CTF](https://ctf.zerologon.co.in/)"  
+    [![](https://ctftime.org/media/events/Logo.c1dfc2e2d63945110c8d.png){ width="200" align=left }](https://ctf.zerologon.co.in/)  
+    **比赛名称** : [Z3R0 D4Y CTF](https://ctf.zerologon.co.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-10-24 17:00:00 - 2024-10-25 05:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Z3r0_l0g0n (https://ctftime.org/team/227457)  
+    **添加日历** : https://ctftime.org/event/2529.ics  
+    
 ??? Quote "[Questcon CTF](https://questcon.ctfd.io/)"  
     [![](https://ctftime.org/media/events/Picsart_24-10-01_16-40-39-530_1_1.png){ width="200" align=left }](https://questcon.ctfd.io/)  
     **比赛名称** : [Questcon CTF](https://questcon.ctfd.io/)  
@@ -981,13 +983,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : Pacific Hackers Association (https://ctftime.org/team/304096)  
     **添加日历** : https://ctftime.org/event/2413.ics  
-    
-??? Quote "[MindBreak 2024 by ESGI](https://forms.gle/PMkTtQ692RGo3SCGA)"  
-    [![](https://ctftime.org/media/events/511a7559bf9c4f2a983c12008b53d059.png){ width="200" align=left }](https://forms.gle/PMkTtQ692RGo3SCGA)  
-    **比赛名称** : [MindBreak 2024 by ESGI](https://forms.gle/PMkTtQ692RGo3SCGA)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-06-23 03:00:00 - 2024-06-23 12:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : MindBreakers ESGI (https://ctftime.org/team/280786)  
-    **添加日历** : https://ctftime.org/event/2415.ics  
     
